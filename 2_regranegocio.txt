@@ -1,0 +1,8 @@
+GRUPO 26
+
+Regra de negocio:
+
+RN24 - Entidade: FORNECEDOR_VIDEO
+
+Todo vídeo deve ter um fornecedor e todo fornecedor deve possuir obrigatoriamente o seu CNPJ, email e telefone. 
+Um vídeo deve pertencer apenas a um fornecedor e um fornecedor pode produzir vários vídeos.
