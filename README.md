@@ -1,17 +1,20 @@
 # Visão Geral
 
-Este repositório contém o projeto de modelagem de dados desenvolvido por mim para a Faculdade FIAP.
-A empresa **Melhores Compras** é uma empresa que oferece uma ampla variedade de produtos em sua **plataforma de e-commerce**, nossa equipe foi contratada para traduzir as **regras de negócios** e implementá-las em um **banco de dados relacional**. Essas regras de negócios são fundamentais para determinar como as operações devem ser realizadas em nossa empresa e servem como a base deste projeto.
+Neste projeto, tive a oportunidade de trabalhar com a empresa Melhores Compras, uma **plataforma de e-commerce** que oferece uma ampla variedade de produtos. A missão da nossa equipe foi traduzir as **regras de negócios** da empresa em um **banco de dados relacional**. Essas regras são cruciais para definir como as operações da empresa são realizadas e serviram como a base deste projeto.
 
-* Projeto Lógico,
-* Projeto Físico,
-* Scripts SQL para criação de tabelas.
+**O que fizemos:**
+
+📊 Desenvolvimento do Projeto Lógico,
+
+💻 Implementação do Projeto Físico,
+
+🔍 Criação de Scripts SQL para criar tabelas.
 
 # Ferramenta usada
 **Oracle SQL Data Modeler**
 
 ## Tópicos Estudados
-Durante a Fase 1 do curso "Imersão no Universo dos Dados", me aprofundei nos seguintes tópicos:
+Durante a fase 1 do curso de "Ciência de Dados", me aprofundei em uma variedade de tópicos essenciais, incluindo:
 
 ### Modelagem de Dados
 - Introdução a Banco de Dados: Uma visão geral sobre o que são bancos de dados e sua importância.
