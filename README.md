@@ -1,11 +1,11 @@
 # Visão Geral
 
 Este repositório contém o projeto de modelagem de dados desenvolvido por mim para a Faculdade FIAP.
-
-O objetivo principal deste projeto foi explorar os conceitos fundamentais de **modelagem de dados, banco de dados relacional**.
-
-# Proposta
 A empresa **Melhores Compras** é uma empresa que oferece uma ampla variedade de produtos em sua **plataforma de e-commerce**, nossa equipe foi contratada para traduzir as **regras de negócios** e implementá-las em um **banco de dados relacional**. Essas regras de negócios são fundamentais para determinar como as operações devem ser realizadas em nossa empresa e servem como a base deste projeto.
+
+* Projeto Lógico,
+* Projeto Físico,
+* Scripts SQL para criação de tabelas.
 
 # Ferramenta usada
 **Oracle SQL Data Modeler**
